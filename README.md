@@ -1,3 +1,3 @@
-# dapp-develop
+# tetsy-dapp-develop
 
 A contract development Dapp.
